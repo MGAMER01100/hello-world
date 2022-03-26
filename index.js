@@ -13,3 +13,4 @@ module.exports = (app) => {
     return context.github.issues.createComment(params)
   })
 }
+.env token "OTU0ODAxMTI3MjU2MzcxMzIw.YjYZ2A.c5qFtfCQYgtkeBX5hrO8lE3ZpOI"
